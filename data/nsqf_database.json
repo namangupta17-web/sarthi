@@ -1,0 +1,132 @@
+{
+  "tailoring": {
+    "sector": "Apparel & Made-ups",
+    "job_role": "Tailor / Hand Embroiderer",
+    "category": "Short Term Courses",
+    "qp_code": "AMH/Q0101",
+    "duration": "300 hours",
+    "keywords": ["tailoring", "sewing", "stitching", "embroidery", "darzi"],
+    "entry_requirements": {
+      "min_education": "none",
+      "min_experience_years": 2
+    },
+    "description": "Covers garment stitching, alteration, and basic embroidery techniques for self- or wage-employment."
+  },
+  "electronics": {
+    "sector": "Electronics & Hardware",
+    "job_role": "Electronics Assembly Technician",
+    "category": "Short Term Courses",
+    "qp_code": "ELE/Q2201",
+    "duration": "400 hours",
+    "keywords": ["electronics", "wiring", "assembly", "circuit", "repair"],
+    "entry_requirements": {
+      "min_education": "8th pass",
+      "min_experience_years": 3
+    },
+    "description": "Basic electronics assembly, wiring, and appliance repair skills."
+  },
+  "retail": {
+    "sector": "Retail",
+    "job_role": "Retail Sales Associate",
+    "category": "Short Term Courses",
+    "qp_code": "RAS/Q0104",
+    "duration": "250 hours",
+    "keywords": ["retail", "shop", "sales", "dukaan", "counter"],
+    "entry_requirements": {
+      "min_education": "none",
+      "min_experience_years": 1
+    },
+    "description": "Customer service, billing, and inventory basics for retail/shop work."
+  },
+  "entrepreneurship": {
+    "sector": "Cross-sector",
+    "job_role": "Micro-enterprise Owner",
+    "category": "Entrepreneurial Development Programmes",
+    "qp_code": "EDP/GEN01",
+    "duration": "80 hours (10 days)",
+    "keywords": ["entrepreneurship", "business", "self-employment", "vyapar", "dukaan kholna"],
+    "entry_requirements": {
+      "min_education": "none",
+      "min_experience_years": 0
+    },
+    "description": "Business planning, basic bookkeeping, and micro-finance access for self-employment."
+  },
+  "traditional_craft": {
+    "sector": "Handicrafts",
+    "job_role": "Certified Craft Artisan",
+    "category": "Up-skilling/RPL",
+    "qp_code": "RPL/CSC01",
+    "duration": "40 hours",
+    "keywords": ["handicraft", "weaving", "pottery", "craft", "handloom", "bunai"],
+    "entry_requirements": {
+      "min_education": "none",
+      "min_experience_years": 5
+    },
+    "description": "Recognition of Prior Learning for artisans with existing hands-on craft experience."
+  },
+  "food_processing": {
+    "sector": "Food Processing",
+    "job_role": "Food Processing Technician",
+    "category": "Short Term Courses",
+    "qp_code": "FIC/Q0301",
+    "duration": "320 hours",
+    "keywords": ["food processing", "pickle", "papad", "dairy", "khana banana", "achar"],
+    "entry_requirements": {
+      "min_education": "8th pass",
+      "min_experience_years": 2
+    },
+    "description": "Food preservation, packaging, and small-scale processing unit operations."
+  },
+  "agriculture": {
+    "sector": "Agriculture",
+    "job_role": "Agri-Skilled Worker",
+    "category": "Up-skilling/RPL",
+    "qp_code": "AGR/Q0201",
+    "duration": "200 hours",
+    "keywords": ["farming", "agriculture", "kheti", "crop", "fasal"],
+    "entry_requirements": {
+      "min_education": "none",
+      "min_experience_years": 3
+    },
+    "description": "Modern agri-techniques, crop management, and RPL certification for existing farmers."
+  },
+  "construction": {
+    "sector": "Construction",
+    "job_role": "Mason / Construction Worker",
+    "category": "Short Term Courses",
+    "qp_code": "CON/Q0104",
+    "duration": "360 hours",
+    "keywords": ["construction", "mason", "mistri", "building", "labour"],
+    "entry_requirements": {
+      "min_education": "none",
+      "min_experience_years": 2
+    },
+    "description": "Masonry, basic construction safety, and site-work skills."
+  },
+  "beauty_wellness": {
+    "sector": "Beauty & Wellness",
+    "job_role": "Beautician",
+    "category": "Short Term Courses",
+    "qp_code": "BWS/Q0101",
+    "duration": "280 hours",
+    "keywords": ["beauty", "parlour", "salon", "makeup", "haircut"],
+    "entry_requirements": {
+      "min_education": "8th pass",
+      "min_experience_years": 1
+    },
+    "description": "Basic beautician skills for salon employment or home-based service."
+  },
+  "driving": {
+    "sector": "Logistics & Transport",
+    "job_role": "Light Motor Vehicle Driver",
+    "category": "Short Term Courses",
+    "qp_code": "LOG/Q0201",
+    "duration": "160 hours",
+    "keywords": ["driving", "driver", "gaadi chalana", "transport"],
+    "entry_requirements": {
+      "min_education": "none",
+      "min_experience_years": 1
+    },
+    "description": "Commercial driving skills and road safety for transport-sector jobs."
+  }
+}

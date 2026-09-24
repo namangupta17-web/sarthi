@@ -1,0 +1,539 @@
+[
+    {
+        "call_id": "test-call-001",
+        "status": "ended",
+        "summary": "Test call summary",
+        "location": null,
+        "language": null,
+        "name": null,
+        "aadhaar_number_masked": null,
+        "otp_verified": false,
+        "extracted_details": {
+            "education": "class 8",
+            "family_trade": "tailoring",
+            "current_work": "unemployed",
+            "hobbies_interests": "stitching",
+            "constraints": "cannot travel far",
+            "job_or_self_employment": "self-employment"
+        },
+        "wants_local_work": null,
+        "call_outcome": "in_progress",
+        "nsqf_matches": [
+            {
+                "matched_keyword": "tailoring",
+                "sector": "Apparel & Made-ups",
+                "job_role": "Tailor / Hand Embroiderer",
+                "category": "Short Term Courses",
+                "qp_code": "AMH/Q0101",
+                "duration": "300 hours",
+                "description": "Covers garment stitching, alteration, and basic embroidery techniques for self- or wage-employment.",
+                "estimated_experience_years": null,
+                "min_experience_years_required": 2,
+                "readiness_status": "needs_training"
+            },
+            {
+                "matched_keyword": "entrepreneurship",
+                "sector": "Cross-sector",
+                "job_role": "Micro-enterprise Owner",
+                "category": "Entrepreneurial Development Programmes",
+                "qp_code": "EDP/GEN01",
+                "duration": "80 hours (10 days)",
+                "description": "Business planning, basic bookkeeping, and micro-finance access for self-employment.",
+                "estimated_experience_years": null,
+                "min_experience_years_required": 0,
+                "readiness_status": "needs_training"
+            }
+        ],
+        "_migrated_from_legacy_schema": true
+    },
+    {
+        "call_id": "01a094a7-251e-7880-a004-d38f0c2e1e06",
+        "status": "queued",
+        "summary": "No summary provided.",
+        "location": null,
+        "language": null,
+        "name": null,
+        "aadhaar_number_masked": null,
+        "otp_verified": false,
+        "extracted_details": {
+            "education": null,
+            "family_trade": null,
+            "current_work": null,
+            "hobbies_interests": null,
+            "constraints": null,
+            "job_or_self_employment": null
+        },
+        "wants_local_work": null,
+        "call_outcome": "in_progress",
+        "nsqf_matches": [],
+        "_migrated_from_legacy_schema": true
+    },
+    {
+        "call_id": "01a094ac-a2f4-7000-8463-0a980dca65e4",
+        "status": "queued",
+        "summary": "No summary provided.",
+        "location": null,
+        "language": null,
+        "name": null,
+        "aadhaar_number_masked": null,
+        "otp_verified": false,
+        "extracted_details": {
+            "education": null,
+            "family_trade": null,
+            "current_work": null,
+            "hobbies_interests": null,
+            "constraints": null,
+            "job_or_self_employment": null
+        },
+        "wants_local_work": null,
+        "call_outcome": "in_progress",
+        "nsqf_matches": [],
+        "_migrated_from_legacy_schema": true
+    },
+    {
+        "call_id": "test-call-003",
+        "status": "ended",
+        "summary": "Test call summary 3",
+        "location": null,
+        "language": null,
+        "name": null,
+        "aadhaar_number_masked": null,
+        "otp_verified": false,
+        "extracted_details": {
+            "education": "Class 8th",
+            "family_trade": "Farming",
+            "current_work": "Helps with farming",
+            "hobbies_interests": "Not mentioned",
+            "constraints": "Prefers to work near home",
+            "job_or_self_employment": "Self-employment/small business"
+        },
+        "wants_local_work": null,
+        "call_outcome": "in_progress",
+        "nsqf_matches": [
+            {
+                "matched_keyword": "agriculture",
+                "sector": "Agriculture",
+                "job_role": "Agri-Skilled Worker",
+                "category": "Up-skilling/RPL",
+                "qp_code": "AGR/Q0201",
+                "duration": "200 hours",
+                "description": "Modern agri-techniques, crop management, and RPL certification for existing farmers.",
+                "estimated_experience_years": null,
+                "min_experience_years_required": 3,
+                "readiness_status": "needs_training"
+            },
+            {
+                "matched_keyword": "entrepreneurship",
+                "sector": "Cross-sector",
+                "job_role": "Micro-enterprise Owner",
+                "category": "Entrepreneurial Development Programmes",
+                "qp_code": "EDP/GEN01",
+                "duration": "80 hours (10 days)",
+                "description": "Business planning, basic bookkeeping, and micro-finance access for self-employment.",
+                "estimated_experience_years": null,
+                "min_experience_years_required": 0,
+                "readiness_status": "needs_training"
+            }
+        ],
+        "_migrated_from_legacy_schema": true
+    },
+    {
+        "call_id": "01a094bd-e367-7ccf-b498-9b8221409b9e",
+        "status": "queued",
+        "summary": "No summary provided.",
+        "location": null,
+        "language": null,
+        "name": null,
+        "aadhaar_number_masked": null,
+        "otp_verified": false,
+        "extracted_details": {
+            "education": null,
+            "family_trade": null,
+            "current_work": null,
+            "hobbies_interests": null,
+            "constraints": null,
+            "job_or_self_employment": null
+        },
+        "wants_local_work": null,
+        "call_outcome": "in_progress",
+        "nsqf_matches": [],
+        "_migrated_from_legacy_schema": true
+    },
+    {
+        "call_id": "test-call-004",
+        "status": "queued",
+        "summary": "AI: Namaste... User: I study farming with my family and want a job near home.",
+        "location": null,
+        "language": null,
+        "name": null,
+        "aadhaar_number_masked": null,
+        "otp_verified": false,
+        "extracted_details": {
+            "education": "Class 10th",
+            "family_trade": "Tailoring",
+            "current_work": "Helps at home",
+            "hobbies_interests": "Stitching",
+            "constraints": "Cannot travel far",
+            "job_or_self_employment": "Self-employment/small business"
+        },
+        "wants_local_work": null,
+        "call_outcome": "in_progress",
+        "nsqf_matches": [
+            {
+                "matched_keyword": "tailoring",
+                "sector": "Apparel & Made-ups",
+                "job_role": "Tailor / Hand Embroiderer",
+                "category": "Short Term Courses",
+                "qp_code": "AMH/Q0101",
+                "duration": "300 hours",
+                "description": "Covers garment stitching, alteration, and basic embroidery techniques for self- or wage-employment.",
+                "estimated_experience_years": null,
+                "min_experience_years_required": 2,
+                "readiness_status": "needs_training"
+            },
+            {
+                "matched_keyword": "entrepreneurship",
+                "sector": "Cross-sector",
+                "job_role": "Micro-enterprise Owner",
+                "category": "Entrepreneurial Development Programmes",
+                "qp_code": "EDP/GEN01",
+                "duration": "80 hours (10 days)",
+                "description": "Business planning, basic bookkeeping, and micro-finance access for self-employment.",
+                "estimated_experience_years": null,
+                "min_experience_years_required": 0,
+                "readiness_status": "needs_training"
+            }
+        ],
+        "_migrated_from_legacy_schema": true
+    },
+    {
+        "call_id": "01a094c5-96e3-7880-a04e-ddb1b984c33a",
+        "status": "queued",
+        "summary": "farming conversation summary",
+        "location": null,
+        "language": null,
+        "name": null,
+        "aadhaar_number_masked": null,
+        "otp_verified": false,
+        "extracted_details": {
+            "education": "10th grade",
+            "family_trade": "Farming",
+            "current_work": "Assists in farming",
+            "hobbies_interests": null,
+            "constraints": "Prefers to learn and work in the village due to home responsibilities, cannot travel outside the village/city.",
+            "job_or_self_employment": "Self-employment/micro-enterprise"
+        },
+        "wants_local_work": null,
+        "call_outcome": "in_progress",
+        "nsqf_matches": [
+            {
+                "matched_keyword": "agriculture",
+                "sector": "Agriculture",
+                "job_role": "Agri-Skilled Worker",
+                "category": "Up-skilling/RPL",
+                "qp_code": "AGR/Q0201",
+                "duration": "200 hours",
+                "description": "Modern agri-techniques, crop management, and RPL certification for existing farmers.",
+                "estimated_experience_years": null,
+                "min_experience_years_required": 3,
+                "readiness_status": "needs_training"
+            },
+            {
+                "matched_keyword": "entrepreneurship",
+                "sector": "Cross-sector",
+                "job_role": "Micro-enterprise Owner",
+                "category": "Entrepreneurial Development Programmes",
+                "qp_code": "EDP/GEN01",
+                "duration": "80 hours (10 days)",
+                "description": "Business planning, basic bookkeeping, and micro-finance access for self-employment.",
+                "estimated_experience_years": null,
+                "min_experience_years_required": 0,
+                "readiness_status": "needs_training"
+            }
+        ],
+        "_migrated_from_legacy_schema": true
+    },
+    {
+        "call_id": "01a096d5-a73d-7000-9590-96d8c88ec26b",
+        "status": "queued",
+        "summary": "incomplete call",
+        "location": null,
+        "language": null,
+        "name": null,
+        "aadhaar_number_masked": null,
+        "otp_verified": false,
+        "extracted_details": {
+            "education": null,
+            "family_trade": null,
+            "current_work": null,
+            "hobbies_interests": null,
+            "constraints": null,
+            "job_or_self_employment": null
+        },
+        "wants_local_work": null,
+        "call_outcome": "in_progress",
+        "nsqf_matches": [],
+        "_migrated_from_legacy_schema": true
+    },
+    {
+        "call_id": "01a09e7e-ad7d-7880-bb75-208c318db59d",
+        "status": "queued",
+        "summary": "govt job call",
+        "location": null,
+        "language": null,
+        "name": null,
+        "aadhaar_number_masked": null,
+        "otp_verified": false,
+        "extracted_details": {
+            "education": null,
+            "family_trade": "Government jobs",
+            "current_work": null,
+            "hobbies_interests": null,
+            "constraints": null,
+            "job_or_self_employment": null
+        },
+        "wants_local_work": null,
+        "call_outcome": "in_progress",
+        "nsqf_matches": [],
+        "_migrated_from_legacy_schema": true
+    },
+    {
+        "call_id": "01a09e7f-b90f-7000-985e-8a05a79bbcfe",
+        "status": "queued",
+        "summary": "govt job call 2",
+        "location": null,
+        "language": null,
+        "name": null,
+        "aadhaar_number_masked": null,
+        "otp_verified": false,
+        "extracted_details": {
+            "education": null,
+            "family_trade": "Government jobs",
+            "current_work": null,
+            "hobbies_interests": null,
+            "constraints": null,
+            "job_or_self_employment": null
+        },
+        "wants_local_work": null,
+        "call_outcome": "in_progress",
+        "nsqf_matches": [],
+        "_migrated_from_legacy_schema": true
+    },
+    {
+        "call_id": "01a09e80-81e5-7000-a4d5-84eaabfa9958",
+        "status": "queued",
+        "summary": "No summary provided.",
+        "location": null,
+        "language": null,
+        "name": null,
+        "aadhaar_number_masked": null,
+        "otp_verified": false,
+        "extracted_details": {
+            "education": null,
+            "family_trade": null,
+            "current_work": null,
+            "hobbies_interests": null,
+            "constraints": null,
+            "job_or_self_employment": null
+        },
+        "wants_local_work": null,
+        "call_outcome": "in_progress",
+        "nsqf_matches": [],
+        "_migrated_from_legacy_schema": true
+    },
+    {
+        "call_id": "01a09e80-933c-7000-800e-cbe2896fcad6",
+        "status": "queued",
+        "summary": "kheti badi call",
+        "location": null,
+        "language": null,
+        "name": null,
+        "aadhaar_number_masked": null,
+        "otp_verified": false,
+        "extracted_details": {
+            "education": null,
+            "family_trade": "\u0916\u0947\u0924\u0940\u092c\u093e\u0921\u093c\u0940",
+            "current_work": null,
+            "hobbies_interests": null,
+            "constraints": null,
+            "job_or_self_employment": null
+        },
+        "wants_local_work": null,
+        "call_outcome": "in_progress",
+        "nsqf_matches": [],
+        "_migrated_from_legacy_schema": true
+    },
+    {
+        "call_id": "01a09e81-26d9-7000-a51c-d6d92409e035",
+        "status": "queued",
+        "summary": "khet call 12th pass",
+        "location": null,
+        "language": null,
+        "name": null,
+        "aadhaar_number_masked": null,
+        "otp_verified": false,
+        "extracted_details": {
+            "education": "12th grade",
+            "family_trade": "Farming",
+            "current_work": "Farming (helping out)",
+            "hobbies_interests": null,
+            "constraints": "Can travel near the village for training",
+            "job_or_self_employment": "Self-employment/small business"
+        },
+        "wants_local_work": null,
+        "call_outcome": "in_progress",
+        "nsqf_matches": [
+            {
+                "matched_keyword": "agriculture",
+                "sector": "Agriculture",
+                "job_role": "Agri-Skilled Worker",
+                "category": "Up-skilling/RPL",
+                "qp_code": "AGR/Q0201",
+                "duration": "200 hours",
+                "description": "Modern agri-techniques, crop management, and RPL certification for existing farmers.",
+                "estimated_experience_years": null,
+                "min_experience_years_required": 3,
+                "readiness_status": "needs_training"
+            },
+            {
+                "matched_keyword": "entrepreneurship",
+                "sector": "Cross-sector",
+                "job_role": "Micro-enterprise Owner",
+                "category": "Entrepreneurial Development Programmes",
+                "qp_code": "EDP/GEN01",
+                "duration": "80 hours (10 days)",
+                "description": "Business planning, basic bookkeeping, and micro-finance access for self-employment.",
+                "estimated_experience_years": null,
+                "min_experience_years_required": 0,
+                "readiness_status": "needs_training"
+            }
+        ],
+        "_migrated_from_legacy_schema": true
+    },
+    {
+        "call_id": "01a0a182-e791-7000-816d-0ca7a7ba30d2",
+        "status": "queued",
+        "summary": "AI: Namaste. \u0915\u094d\u092f\u093e \u0906\u092a \u0905\u092a\u0928\u0947 \u0938\u0939\u0930 \u091c\u093f\u0932\u093e \u0914\u0930 \u0930\u093e\u091c\u094d\u092f \u0915\u0940 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0926\u0947\u0902\u0917\u0947?\nUser: \u092e\u0948\u0902 \u092e\u0941\u0902\u092c\u0908, \u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u092e\u0947\u0902 \u0930\u0939\u0924\u093e \u0939\u0942\u0901\u0964\nAI: \u0916\u0942\u092c \u091b\u093e\u0928. \u0924\u0941\u092e\u094d\u0939\u0940 \u092e\u0941\u0902\u092c\u0908-\u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u093e\u0924 \u0930\u093e\u0939\u0924\u093e \u0924\u0930, \u0924\u0941\u092e\u091a\u0902 \u0928\u093e\u0935 \u0915\u093e\u092f \u0906\u0939\u0947 \u0924\u0947 \u0938\u093e\u0902\u0917\u0942 \u0936\u0915\u093e\u0932 \u0915\u093e?\nUser: \u0915\u094d\u092f\u093e \u0906\u092a \u0939\u093f\u0902\u0926\u0940 \u092e\u0947\u0902 \u0935\u093e\u0930\u094d\u0924\u093e\u0932\u093e\u092a \u0915\u0930\u0947\u0902\u0917\u0947?\nAI: \u091c\u0940 \u092c\u093f\u0932\u094d\u0915\u0941\u0932, \u0939\u092e \u0939\u093f\u0902\u0926\u0940 \u092e\u0947\u0902 \u0939\u0940 \u092c\u093e\u0924 \u0915\u0930\u0947\u0902\u0917\u0947\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u092e\u0941\u091d\u0947 \u0905\u092a\u0928\u093e \u0928\u093e\u092e \u092c\u0924\u093e \u0938\u0915\u0924\u0947 \u0939\u0948\u0902?\nUser: \u092e\u0947\u0930\u093e \u0928\u093e\u092e \u0928\u092e\u0928 \u0939\u0948\u0964\nAI: \u0928\u092e\u0928 \u091c\u0940, \u0906\u092a\u0938\u0947 \u092c\u093e\u0924 \u0915\u0930\u0915\u0947 \u092c\u0939\u0941\u0924 \u0905\u091a\u094d\u091b\u093e \u0932\u0917\u093e\u0964 \u0906\u0917\u0947 \u092c\u0922\u093c\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f, \u0915\u094d\u092f\u093e \u0906\u092a \u092e\u0941\u091d\u0947 \u0905\u092a\u0928\u093e 12-\u0905\u0902\u0915\u094b\u0902 \u0915\u093e \u0906\u0927\u093e\u0930 \u0928\u0902\u092c\u0930 \u092c\u0924\u093e \u0938\u0915\u0924\u0947 \u0939\u0948\u0902? \u0906\u092a\u0915\u0940 \u092a\u0939\u091a\u093e\u0928 \u0915\u0940 \u092a\u0941\u0937\u094d\u091f\u093f \u0915\u0930 \u0938\u0915\u0947\u0902\u0917\u0947\u0964\nUser: 1, 2, 3, 4, 5, 6, 7, 8, 9, 1, 2, 3\u0964\nAI: \u0924\u094b \u0906\u092a\u0915\u093e \u0906\u0927\u093e\u0930 \u0928\u0902\u092c\u0930 \u0939\u0948 1\u0964 2 3 4 5 6 7 8 9 1 2 3\u0964 \u0915\u094d\u092f\u093e \u092f\u0939 \u0938\u0939\u0940 \u0939\u0948?\nUser: \u0939\u093e\u0901, \u091c\u0940\u0964\nAI: \u092c\u0939\u0941\u0924-\u092c\u0939\u0941\u0924 \u0927\u0928\u094d\u092f\u0935\u093e\u0926, \u0928\u092e\u0928 \u091c\u0940\u0964 \u0906\u092a\u0915\u0947 \u0930\u091c\u093f\u0938\u094d\u091f\u0930\u094d\u0921 \u092e\u094b\u092c\u093e\u0907\u0932 \u0928\u0902\u092c\u0930 \u092a\u0930 \u090f\u0915 \u0913\u091f\u0940\u092a\u0940 \u092d\u0947\u091c\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u0915\u0943\u092a\u092f\u093e \u0935\u0939 \u0913\u091f\u0940\u092a\u0940 \u092e\u0941\u091d\u0947 \u092c\u0924\u093e\u090f\u0902\u0964\nUser: 7895\u0964\nAI: \u0913\u091f\u0940\u092a\u0940 \u0915\u0940 \u092a\u0941\u0937\u094d\u091f\u093f \u0939\u094b \u0917\u0908 \u0939\u0948, \u0927\u0928\u094d\u092f\u0935\u093e\u0926\u0964 \u0928\u092e\u0928 \u091c\u0940, \u0905\u092c \u0906\u092a\u0915\u0947\u0964 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u0925\u094b\u0921\u093c\u093e \u0914\u0930 \u091c\u093e\u0928\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f, \u0915\u094d\u092f\u093e \u0906\u092a \u092e\u0941\u091d\u0947 \u092c\u0924\u093e \u0938\u0915\u0924\u0947 \u0939\u0948\u0902 \u0915\u093f \u0906\u092a\u0928\u0947 \u0915\u0939\u093e\u0901 \u0924\u0915 \u092a\u0922\u093c\u093e\u0908 \u0915\u0940 \u0939\u0948, \u092f\u093e \u0915\u094b\u0908 \u0914\u0930\u0964 \u0915\u094b\u0930\u094d\u0938 \u0915\u093f\u092f\u093e \u0939\u0948?\nUser: \u090f\u0915 \u0936\u0949\u0930\u094d\u091f \u092b\u0940 \u0924\u0915\u0964 \u0915\u0915\u094d\u0937\u093e\u0964 40+ \u092a\u0922\u093c\u093e\u0908 \u0915\u0930\u0940 \u0939\u0948 \u092e\u0948\u0902\u0928\u0947\u0964\nAI: \u0905\u091a\u094d\u091b\u093e\u0964\nAI: \u0905\u091a\u094d\u091b\u093e, \u092f\u093e\u0928\u0940 \u0906\u092a\u0928\u0947 \u0915\u0915\u094d\u0937\u093e 10\u0935\u0940\u0902 \u0924\u0915 \u092a\u0922\u093c\u093e\u0908 \u0915\u0940 \u0939\u0948, \u092c\u0939\u0941\u0924 \u092c\u0922\u093c\u093f\u092f\u093e \u0928\u092e\u0928 \u091c\u0940\u0964 \u0915\u094d\u092f\u093e \u0906\u092a\u0915\u0947 \u092a\u0930\u093f\u0935\u093e\u0930 \u092e\u0947\u0902 \u0915\u094b\u0908\u0964 \u092a\u093e\u0930\u0902\u092a\u0930\u093f\u0915 \u0915\u093e\u092e \u092f\u093e \u0935\u094d\u092f\u093e\u092a\u093e\u0930 \u0939\u094b\u0924\u093e \u0939\u0948? \u091c\u094b \u0906\u092a\u0915\u0947 \u0918\u0930 \u0915\u0947 \u0932\u094b\u0917 \u0915\u0930\u0924\u0947 \u0906 \u0930\u0939\u0947 \u0939\u094b\u0902?\nUser: \u0928\u0939\u0940\u0902\u0964\nAI: \u0915\u094b\u0908 \u092c\u093e\u0924 \u0928\u0939\u0940\u0902\u0964 \u0928\u092e\u0928 \u091c\u0940, \u0915\u094d\u092f\u093e \u0906\u092a \u0905\u092d\u0940 \u0915\u094b\u0908 \u0915\u093e\u092e \u0915\u0930\u0924\u0947 \u0939\u0948\u0902, \u092f\u093e \u0906\u092a\u0915\u0940 \u0915\u092e\u093e\u0908 \u0915\u093e \u0915\u094b\u0908 \u091c\u0930\u093f\u092f\u093e \u0939\u0948?\nUser: \u0928\u0939\u0940\u0902\u0964\nAI: \u0920\u0940\u0915 \u0939\u0948\u0964 \u0928\u092e\u0928 \u091c\u0940, \u0915\u094d\u092f\u093e \u0906\u092a\u0915\u094b \u0915\u094b\u0908 \u0916\u093e\u0938 \u0915\u093e\u092e \u0915\u0930\u0928\u093e\u0964 \u092a\u0938\u0902\u0926 \u0939\u0948? \u092f\u093e \u0906\u092a\u0915\u093e \u0915\u094b\u0908 \u0936\u094c\u0915 \u0939\u0948? \u091c\u0948\u0938\u0947 \u0915\u094b\u0908 \u0939\u0941\u0928\u0930 \u091c\u094b \u0906\u092a \u0915\u0930\u0928\u093e \u092a\u0938\u0902\u0926 \u0915\u0930\u0924\u0947 \u0939\u094b\u0902?\nUser: \u0916\u093e\u0928\u093e \u092c\u0928\u093e \u0932\u0947\u0924\u093e \u0939\u0942\u0901 \u0915\u092d\u0940-\u0915\u092d\u0940\u0964\nAI: \u0905\u0930\u0947 \u0935\u093e\u0939, \u0916\u093e\u0928\u093e \u092c\u0928\u093e\u0928\u093e \u0924\u094b \u092c\u0939\u0941\u0924\n",
+        "location": "Mumbai, Maharashtra",
+        "language": "Hindi",
+        "name": "Naman",
+        "aadhaar_number_masked": "XXXX-XXXX-9123",
+        "otp_verified": true,
+        "extracted_details": {
+            "education": "\u0915\u0915\u094d\u0937\u093e 10\u0935\u0940\u0902 \u0924\u0915",
+            "family_trade": "\u0928\u0939\u0940\u0902",
+            "current_work": "\u0928\u0939\u0940\u0902",
+            "hobbies_interests": "\u0916\u093e\u0928\u093e \u092c\u0928\u093e\u0928\u093e",
+            "constraints": "null",
+            "job_or_self_employment": "null"
+        },
+        "wants_local_work": false,
+        "call_outcome": "in_progress",
+        "nsqf_matches": []
+    },
+    {
+        "call_id": "01a0a185-3df7-7669-ad96-5f2d446e4940",
+        "status": "queued",
+        "summary": "No summary provided.",
+        "location": null,
+        "language": null,
+        "name": null,
+        "aadhaar_number_masked": null,
+        "otp_verified": false,
+        "extracted_details": {
+            "education": null,
+            "family_trade": null,
+            "current_work": null,
+            "hobbies_interests": null,
+            "constraints": null,
+            "job_or_self_employment": null
+        },
+        "wants_local_work": null,
+        "call_outcome": "in_progress",
+        "nsqf_matches": []
+    },
+    {
+        "call_id": "01a0a185-547c-7779-9c41-79b7781bd9bb",
+        "status": "queued",
+        "summary": "User: Okay.\nAI: Namaste. \u0915\u094d\u092f\u093e \u0906\u092a \u0905\u092a\u0928\u0947 \u0938\u0939\u0930 \u091c\u093f\u0932\u093e \u0914\u0930 \u0930\u093e\u091c\u094d\u092f \u0915\u0940 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0926\u0947\u0902\u0917\u0947?\nUser: Uh, \u092e\u0948\u0902 \u092e\u0941\u0902\u092c\u0908 \u092e\u0947\u0902 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u092e\u0947\u0902 \u0930\u0939\u0924\u093e \u0939\u0942\u0901, \u0932\u0947\u0915\u093f\u0928\u0964\n",
+        "location": "Mumbai",
+        "language": "Hindi",
+        "name": null,
+        "aadhaar_number_masked": null,
+        "otp_verified": false,
+        "extracted_details": {
+            "education": null,
+            "family_trade": null,
+            "current_work": null,
+            "hobbies_interests": null,
+            "constraints": null,
+            "job_or_self_employment": null
+        },
+        "wants_local_work": null,
+        "call_outcome": "in_progress",
+        "nsqf_matches": []
+    },
+    {
+        "call_id": "01a0a185-aa1c-7779-9c49-7991ba740d90",
+        "status": "queued",
+        "summary": "AI: Namaste. \u0915\u094d\u092f\u093e \u0906\u092a \u0905\u092a\u0928\u0947 \u0938\u0939\u0930 \u091c\u093f\u0932\u093e \u0914\u0930 \u0930\u093e\u091c\u094d\u092f \u0915\u0940\n",
+        "location": "null",
+        "language": "Hindi",
+        "name": null,
+        "aadhaar_number_masked": null,
+        "otp_verified": false,
+        "extracted_details": {
+            "education": null,
+            "family_trade": null,
+            "current_work": null,
+            "hobbies_interests": null,
+            "constraints": null,
+            "job_or_self_employment": null
+        },
+        "wants_local_work": null,
+        "call_outcome": "in_progress",
+        "nsqf_matches": []
+    },
+    {
+        "call_id": "01a0a186-577a-7000-81e4-4ef360bc0b88",
+        "status": "queued",
+        "summary": "AI: Namaste, Mai Sarthi. Hu. \u0915\u094d\u092f\u093e\u0964 \u0906\u092a \u0905\u092a\u0928\u0947 \u0938\u0939\u0930 \u091c\u093f\u0932\u093e \u0914\u0930 \u0930\u093e\u091c\u094d\u092f \u0915\u0940 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0926\u0947\u0902\u0917\u0947?\nUser: \u092e\u0948\u0902 \u092e\u0941\u0902\u092c\u0908 \u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0938\u0947 \u0939\u0942\u0901\u0964\nAI: \u0928\u092e\u0938\u094d\u0915\u093e\u0930, \u092e\u0941\u0902\u092c\u0908-\u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u093e\u0924\u0942\u0928 \u092c\u094b\u0932\u0924 \u0905\u0938\u0932\u094d\u092f\u093e\u092c\u0926\u094d\u0926\u0932 \u0927\u0928\u094d\u092f\u0935\u093e\u0926. \u0906\u092a\u0923 \u092e\u0930\u093e\u0920\u0940\u0924 \u092c\u094b\u0932\u0942\u092f\u093e \u0915\u093e? \u0924\u0941\u092e\u091a\u0902 \u0928\u093e\u0935 \u0915\u093e\u092f \u0906\u0939\u0947? \u0924\u0947 \u0938\u093e\u0902\u0917\u0942 \u0936\u0915\u093e\u0932 \u0915\u093e?\nUser: \u0906\u092a \u0939\u093f\u0902\u0926\u0940 \u092e\u0947\u0902 \u0939\u0940 \u092c\u093e\u0924 \u0915\u0930\u093f\u090f\u0917\u093e\u0964\nAI: \u091c\u0940, \u092c\u093f\u0932\u0915\u0941\u0932, \u0939\u092e \u0939\u093f\u0902\u0926\u0940 \u092e\u0947\u0902 \u0939\u0940 \u092c\u093e\u0924 \u0915\u0930\u0947\u0902\u0917\u0947\u0964 \u0906\u092a\u0915\u093e \u0936\u0941\u092d \u0928\u093e\u092e \u0915\u094d\u092f\u093e \u0939\u0948?\nUser: \u0928\u092e\u0928\u0964\nAI: \u0928\u092e\u0928 \u091c\u0940, \u0906\u092a\u0938\u0947 \u092c\u093e\u0924 \u0915\u0930\u0915\u0947 \u092c\u0939\u0941\u0924 \u0916\u0941\u0936\u0940 \u0939\u0941\u0908\u0964 \u0906\u0917\u0947 \u092c\u0922\u093c\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f, \u0915\u094d\u092f\u093e \u0906\u092a \u092e\u0941\u091d\u0947 \u0905\u092a\u0928\u093e 12 \u0905\u0902\u0915\u094b\u0902 \u0915\u093e \u0906\u0927\u093e\u0930 \u0928\u0902\u092c\u0930 \u092c\u0924\u093e \u0938\u0915\u0924\u0947 \u0939\u0948\u0902?\nUser: 1, 2, 3, 4, 5, 6, 7, 8, 9, 1, 2, 3\u0964\nAI: \u0924\u094b \u0906\u092a\u0915\u093e \u0906\u0927\u093e\u0930 \u0928\u0902\u092c\u0930 \u0939\u0948 1\u0964 2 3 4 \u0921\u0948\u0936 5 6 7 8 \u0921\u0948\u0936 9 1 2 3\u0964 \u0915\u094d\u092f\u093e \u092f\u0939 \u0938\u0939\u0940 \u0939\u0948? \u0928\u092e\u0928 \u091c\u0940,\u0964\nUser: \u0939\u093e\u0901 \u091c\u0940\u0964\nAI: \u0927\u0928\u094d\u092f\u0935\u093e\u0926, \u0928\u092e\u0928 \u091c\u0940\u0964 \u0906\u092a\u0915\u0947 \u0906\u0927\u093e\u0930 \u0938\u0947 \u091c\u0941\u0921\u093c\u0947 \u092e\u094b\u092c\u093e\u0907\u0932 \u0928\u0902\u092c\u0930 \u092a\u0930 \u090f\u0915 \u0913\u091f\u0940\u092a\u0940 \u092d\u0947\u091c\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u092e\u0941\u091d\u0947 \u0935\u0939 \u0913\u091f\u0940\u092a\u0940 \u092c\u0924\u093e \u0938\u0915\u0924\u0947 \u0939\u0948\u0902?\nUser: 674\u0964 2, 3\u0964\nAI: \u0913\u091f\u0940\u092a\u0940 \u0938\u0924\u094d\u092f\u093e\u092a\u093f\u0924 \u0939\u094b \u0917\u092f\u093e \u0939\u0948, \u092c\u0939\u0941\u0924-\u092c\u0939\u0941\u0924 \u0927\u0928\u094d\u092f\u0935\u093e\u0926, \u0928\u092e\u0928 \u091c\u0940\u0964 \u0905\u092c \u0906\u092a\u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u0925\u094b\u0921\u093c\u093e \u0914\u0930 \u091c\u093e\u0928\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u092e\u0941\u091d\u0947 \u092c\u0924\u093e\u090f\u0902\u0917\u0947 \u0915\u093f \u0906\u092a\u0928\u0947 \u092a\u0922\u093c\u093e\u0908 \u0915\u0939\u093e\u0901 \u0924\u0915 \u0915\u0940 \u0939\u0948?\nUser: 10\u0935\u0940\u0902 \u0915\u0915\u094d\u0937\u093e \u0924\u0915\u0964\nAI: \u092c\u0939\u0941\u0924 \u0905\u091a\u094d\u091b\u093e, \u0928\u092e\u0928 \u091c\u0940\u0964 \u0906\u092a\u0928\u0947 10\u0935\u0940\u0902 \u0924\u0915 \u092a\u0922\u093c\u093e\u0908 \u0915\u0940 \u0939\u0948\u0964 \u0915\u094d\u092f\u093e \u0906\u092a\u0915\u0947 \u092a\u0930\u093f\u0935\u093e\u0930 \u092e\u0947\u0902 \u0915\u094b\u0908 \u092a\u093e\u0930\u0902\u092a\u0930\u093f\u0915 \u0915\u093e\u092e\u0964 \u092f\u093e \u0935\u094d\u092f\u093e\u092a\u093e\u0930 \u0939\u094b\u0924\u093e \u0906 \u0930\u0939\u093e \u0939\u0948?\nUser: \u0928\u0939\u0940\u0902\u0964\nAI: \u0920\u0940\u0915 \u0939\u0948, \u0928\u092e\u0928 \u091c\u0940\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u0905\u092d\u0940 \u0915\u094b\u0908 \u0915\u093e\u092e \u092f\u093e \u0928\u094c\u0915\u0930\u0940 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902 \u091c\u093f\u0938\u0938\u0947 \u0906\u092a\u0915\u0940 \u0915\u092e\u093e\u0908 \u0939\u094b\u0924\u0940 \u0939\u094b?\nUser: \u0928\u0939\u0940\u0902\u0964\nAI: \u0915\u094b\u0908 \u092c\u093e\u0924 \u0928\u0939\u0940\u0902\u0964\nUser: \u0928\u0939\u0940\u0902, \u0928\u0939\u0940\u0902\u0964\nAI: \u0920\u0940\u0915 \u0939\u0948, \u0928\u092e\u0928 \u091c\u0940\u0964 \u0915\u094d\u092f\u093e \u0906\u092a\u0915\u094b \u0915\u094b\u0908 \u0916\u093e\u0938 \u0915\u093e\u092e \u0915\u0930\u0928\u093e \u092a\u0938\u0902\u0926 \u0939\u0948, \u091c\u0948\u0938\u0947 \u0915\u094b\u0908 \u0936\u094c\u0915 \u092f\u093e \u0915\u094b\u0908 \u0910\u0938\u0940 \u091a\u0940\u091c\u093c \u091c\u094b \u0906\u092a \u0905\u091a\u094d\u091b\u0947 \u0938\u0947 \u0915\u0930 \u0932\u0947\u0924\u0947 \u0939\u094b\u0902?\nUser: \u0906\u0928\u093e \u092c\u0928\u093e \u0932\u0947\u0924\u093e \u0939\u0942\u0901 \u0915\u092d\u0940-\u0915\u092d\u0940\u0964\nAI: \u0905\u0930\u0947 \u0935\u093e\u0939, \u0916\u093e\u0928\u093e \u092c\u0928\u093e\u0928\u093e \u0924\u094b \u092c\u0939\u0941\u0924 \u0939\u0940 \u092c\u0922\u093c\u093f\u092f\u093e \u0939\u0941\u0928\u0930 \u0939\u0948\u0964 \u0928\u092e\u0928 \u091c\u0940, \u0915\u094d\u092f\u093e \u0906\u092a\u0915\u094b \u091a\u0932\u0928\u0947-\u092b\u093f\u0930\u0928\u0947 \u092e\u0947\u0902 \u092f\u093e \u0915\u0939\u0940\u0902 \u0906\u0928\u0947-\u091c\u093e\u0928\u0947 \u092e\u0947\u0902 \u0915\u094b\u0908 \u0936\u093e\u0930\u0940\u0930\u093f\u0915 \u092a\u0930\u0947\u0936\u093e\u0928\u0940 \u092f\u093e \u0926\u093f\u0915\u094d\u0915\u0924 \u0939\u0948?\nUser: \u0928\u0939\u0940\u0902, \u0928\u0939\u0940\u0902\u0964\nAI: \u092f\u0939 \u0924\u094b \u092c\u0939\u0941\u0924 \u0905\u091a\u094d\u091b\u0940 \u092c\u093e\u0924 \u0939\u0948, \u0928\u092e\u0928 \u091c\u0940\u0964 \u0906\u092a \u0906\u0917\u0947 \u091a\u0932\u0915\u0930 \u0928\u094c\u0915\u0930\u0940 \u0915\u0930\u0928\u093e \u092a\u0938\u0902\u0926 \u0915\u0930\u0947\u0902\u0917\u0947 \u092f\u093e \u0916\u0941\u0926 \u0915\u093e \u0915\u094b\u0908 \u091b\u094b\u091f\u093e-\u092e\u094b\u091f\u093e \u0915\u093e\u092e \u092f\u093e \u092c\u093f\u091c\u093c\u0928\u0947\u0938 \u0936\u0941\u0930\u0942 \u0915\u0930\u0928\u093e \u091a\u093e\u0939\u0947\u0902\u0917\u0947?\nUser: \u0928\u094c\u0915\u0930\u0940 \u0915\u0930 \u0932\u0947\u0902\u0917\u0947\u0964\nAI: \u092c\u0939\u0941\u0924 \u092c\u0922\u093c\u093f\u092f\u093e, \u0928\u092e\u0928 \u091c\u0940\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u0905\u092a\u0928\u0947 \u0907\u0938\u0940 \u0907\u0932\u093e\u0915\u0947, \u092e\u0941\u0902\u092c\u0908 \u092e\u0947\u0902 \u0930\u0939\u0915\u0930 \u0915\u093e\u092e \u0915\u0930\u0928\u093e \u091a\u093e\u0939\u0924\u0947 \u0939\u0948\u0902? \u092f\u093e \u0915\u093e\u092e \u0914\u0930 \u091f\u094d\u0930\u0947\u0928\u093f\u0902\u0917 \u0915\u0947 \u0932\u093f\u090f \u092c\u093e\u0939\u0930 \u091c\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u092d\u0940 \u0924\u0948\u092f\u093e\u0930 \u0939\u0948\u0902?\nUser: \u092e\u0948\u0902 \u092e\u0941\u0902\u092c\u0908 \u092e\u0947\u0902 \u0939\u0940 \u0930\u0939\u0928\u093e \u091a\u093e\u0939\u0924\u093e \u0939\u0942\u0901\u0964\nAI: \u0928\u092e\u0928 \u091c\u0940,\u0964 \u0906\u092a\u0915\u0940 \u092a\u0938\u0902\u0926 \u092c\u093f\u0932\u094d\u0915\u0941\u0932 \u0938\u093e\u092b \u0939\u0948\u0964 \u091a\u0942\u0901\u0915\u093f \u0906\u092a \u092e\u0941\u0902\u092c\u0908 \u092e\u0947\u0902 \u0939\u0940 \u0930\u0939\u0915\u0930 \u0928\u094c\u0915\u0930\u0940 \u0915\u0930\u0928\u093e \u091a\u093e\u0939\u0924\u0947 \u0939\u0948\u0902 \u0914\u0930 \u0906\u092a\u0915\u094b \u0916\u093e\u0928\u093e \u092c\u0928\u093e\u0928\u0947 \u0915\u093e \u0936\u094c\u0915 \u0939\u0948, \u0924\u094b \u0906\u092a\u0915\u0947 \u0932\u093f\u090f \u0939\u092e\u093e\u0930\u0947 \u092a\u093e\u0938 \u0905\u0938\u093f\u0938\u094d\u091f\u0947\u0902\u091f\u0964 \u0915\u0948\u091f\u0930\u093f\u0902\u0917\u0964 \u092e\u0948\u0928\u0947\u091c\u0930 \u092f\u093e \u092b\u0942\u0921 \u090f\u0902\u0921 \u092c\u0947\u0935\u0930\u0947\u091c \u0938\u0930\u094d\u0935\u093f\u0938 \u090f\u0938\u094b\u0938\u093f\u090f\u091f \u091c\u0948\u0938\u0947 \u0915\u0941\u091b \u092c\u0939\u0941\u0924 \u0905\u091a\u094d\u091b\u0947 \u091f\u094d\u0930\u0947\u0928\u093f\u0902\u0917 \u0915\u094b\u0930\u094d\u0938 \u0915\u0947 \u0935\u093f\u0915\u0932\u094d\u092a \u0939\u0948\u0902, \u091c\u094b \u0906\u092a\u0915\u094b \u092e\u0941\u0902\u092c\u0908 \u092e\u0947\u0902 \u0939\u0940 \u0915\u093e\u092e \u0926\u093f\u0932\u093e\u0928\u0947 \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902\u0964 \u0905\u092c \u092e\u0947\u0930\u0947 \u092a\u093e\u0938 \u0906\u092a\u0915\u0940 \u092a\u0942\u0930\u0940 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0906 \u0917\u0908\u0964 \u0939\u092e \u0907\u0938 \u0906\u0927\u093e\u0930 \u092a\u0930 \u0906\u092a\u0915\u0947 \u0932\u093f\u090f \u0938\u0939\u0940 \u0930\u093e\u0938\u094d\u0924\u093e \u0924\u0948\u092f\u093e\u0930 \u0915\u0930\u0947\u0902\u0917\u0947 \u0914\u0930 \u091c\u0932\u094d\u0926 \u0939\u0940 \u0939\u092e\u093e\u0930\u0940 \u091f\u0940\u092e \u0938\u0947 \u0915\u094b\u0908 \u0906\u092a\u0938\u0947 \u0938\u0902\u092a\u0930\u094d\u0915 \u0915\u0930\u0947\u0917\u093e\u0964 \u0939\u092e\u0938\u0947 \u092c\u093e\u0924 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0906\u092a\u0915\u093e \u092c\u0939\u0941\u0924-\u092c\u0939\u0941\u0924 \u0927\u0928\u094d\u092f\u0935\u093e\u0926, \u0928\u092e\u0928 \u091c\u0940\u0964 \u0906\u092a\u0915\u093e \u0926\u093f\u0928 \u0936\u0941\u092d \u0939\u094b\u0964\nUser: \u0925\u0948\u0902\u0915 \u092f\u0942\u0964\nAI: \u0917\u0941 \u0917\u0941\u0921\u092c\u093e\u092f\u0964\n",
+        "location": "Mumbai, Maharashtra",
+        "language": "Hindi",
+        "name": "Naman",
+        "aadhaar_number_masked": "XXXX-XXXX-9123",
+        "otp_verified": true,
+        "extracted_details": {
+            "education": "10th grade",
+            "family_trade": "No family trade or traditional occupation",
+            "current_work": "No current work or income source",
+            "hobbies_interests": "Cooking",
+            "constraints": "No physical, mobility, or travel constraints mentioned",
+            "job_or_self_employment": "Job/employment"
+        },
+        "wants_local_work": true,
+        "call_outcome": "suggested_online_plans",
+        "nsqf_matches": []
+    },
+    {
+        "call_id": "01a0a3d6-2a4c-7000-8ccf-9908f0d61020",
+        "status": "queued",
+        "summary": "AI: Namaste. \u0915\u094d\u092f\u093e \u0906\u092a \u0905\u092a\u0928\u0947 \u0936\u0939\u0930 \u091c\u093f\u0932\u093e \u0914\u0930 \u0930\u093e\u091c\u094d\u092f \u0915\u0940 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0926\u0947\u0902\u0917\u0947?\nUser: \u092e\u0948\u0902 \u092c\u093f\u0939\u093e\u0930 \u092a\u091f\u0928\u093e \u092e\u0947\u0902 \u0930\u0939\u0924\u093e \u0939\u0942\u0901\u0964\nAI: \u092c\u0939\u0941\u0924-\u092c\u0939\u0941\u0924 \u0927\u0928\u094d\u092f\u0935\u093e\u0926 \u092c\u0924\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f\u0964 \u092a\u091f\u0928\u093e \u0924\u094b \u092c\u0939\u0941\u0924 \u0939\u0940 \u0938\u0941\u0902\u0926\u0930 \u0936\u0939\u0930 \u0939\u0948, \u0906\u0917\u0947 \u092c\u0922\u093c\u0928\u0947 \u0938\u0947 \u092a\u0939\u0932\u0947 \u0915\u094d\u092f\u093e \u092e\u0948\u0902 \u0906\u092a\u0915\u093e \u0936\u0941\u092d \u0928\u093e\u092e \u091c\u093e\u0928 \u0938\u0915\u0924\u0940 \u0939\u0942\u0901?\nUser: \u092e\u0947\u0930\u093e \u0928\u093e\u092e \u0928\u092e\u0928 \u0939\u0948\u0964\nAI: \u0928\u092e\u0928 \u091c\u0940, \u0906\u092a\u0938\u0947 \u092c\u093e\u0924 \u0915\u0930\u0915\u0947 \u092c\u0939\u0941\u0924 \u0916\u0941\u0936\u0940 \u0939\u0941\u0908\u0964 \u0906\u0917\u0947 \u0915\u0940 \u092c\u093e\u0924\u091a\u0940\u0924 \u0936\u0941\u0930\u0942 \u0915\u0930\u0928\u0947 \u0938\u0947 \u092a\u0939\u0932\u0947, \u0915\u094d\u092f\u093e \u0906\u092a \u092e\u0941\u091d\u0947 \u0905\u092a\u0928\u093e 12-\u0905\u0902\u0915\u094b\u0902 \u0915\u093e \u0906\u0927\u093e\u0930 \u0928\u0902\u092c\u0930 \u092c\u0924\u093e \u0938\u0915\u0924\u0947 \u0939\u0948\u0902? \u0907\u0938\u0938\u0947 \u0939\u092e \u0906\u092a\u0915\u0940 \u092a\u0939\u091a\u093e\u0928\u0964\nUser: 1, 2, 3, 4, 5, 6, 7, 8, 9, 1, 2, 3\u0964\nAI: \u0924\u094b \u0906\u092a\u0915\u093e \u0906\u0927\u093e\u0930 \u0928\u0902\u092c\u0930 \u0939\u0948 123456789123\u0964 \u0915\u094d\u092f\u093e \u092f\u0939 \u0938\u0939\u0940 \u0939\u0948, \u0928\u092e\u0928 \u091c\u0940?\nUser: \u0939\u093e\u0901 \u091c\u0940\u0964 \u0928\u0939\u0940\u0902, \u0930\u0941\u0915\u093f\u090f, \u092e\u0941\u091d\u0947 \u0926\u0942\u0938\u0930\u093e \u0928\u0902\u092c\u0930 \u0926\u0947\u0928\u093e \u0939\u0948\u0964\nAI: \u0915\u094b\u0908 \u092c\u093e\u0924 \u0928\u0939\u0940\u0902, \u0928\u092e\u0928 \u091c\u0940, \u0906\u092a \u0906\u0930\u093e\u092e \u0938\u0947 \u0905\u092a\u0928\u093e \u0938\u0939\u0940 \u0906\u0927\u093e\u0930 \u0928\u0902\u092c\u0930 \u092c\u0924\u093e \u0926\u0940\u091c\u093f\u090f, \u092e\u0948\u0902 \u0932\u093f\u0916 \u0932\u0947\u0924\u0940 \u0939\u0942\u0901\u0964\nUser: 75, 85, 12\u0964 301\u0964\nAI: \u0928\u092e\u0928 \u091c\u0940\u0964\nUser: 28\u0964\nAI: \u0928\u092e\u0928 \u091c\u0940, \u0906\u092a \u092b\u093f\u0930 \u0938\u0947\u0964\nUser: Tell me more in words, in Hindi.\nAI: \u0915\u094b\u0908 \u092c\u093e\u0924\u0964\nUser: Can you say words in, like, the way\n",
+        "location": "Bihar, Patna",
+        "language": null,
+        "name": "Naman",
+        "aadhaar_number_masked": "XXXX-XXXX-0128",
+        "otp_verified": false,
+        "extracted_details": {
+            "education": null,
+            "family_trade": null,
+            "current_work": null,
+            "hobbies_interests": null,
+            "constraints": null,
+            "job_or_self_employment": null
+        },
+        "wants_local_work": false,
+        "call_outcome": "in_progress",
+        "nsqf_matches": []
+    }
+]
