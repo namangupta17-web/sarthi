@@ -182,8 +182,6 @@ def vapi_webhook():
     extracted_details = extract_saathi_profile(message)
     call_outcome = extracted_details.get("call_outcome", "in_progress")
 
-    # If Saathi already resolved this live (caller wants local work and
-    # got online plan names during the call), skip NSQF matching entirely.
     if call_outcome == "suggested_online_plans":
         nsqf_matches = []
     else:
